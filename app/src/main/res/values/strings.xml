@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KoLand</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_movie_fragment">Hello MOVIES fragment</string>
+    <string name="hello_serie_fragment">Hello SERIES fragment</string>
+    <string name="hello_people_fragment">Hello PEOPLE fragment</string>
+</resources>
